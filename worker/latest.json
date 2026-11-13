@@ -1,7 +1,7 @@
 {
-  "version": "0.8.4",
+  "version": "0.8.5",
   "url": "https://downloads.tsplusmanager.com/worker/worker.exe",
-  "versioned_url": "https://downloads.tsplusmanager.com/worker/worker-0.8.4.exe",
-  "sha256": "686ade64baba60d62706d394e248d5ffb4051b126c92401071c9614ee2e39c25",
+  "versioned_url": "https://downloads.tsplusmanager.com/worker/worker-0.8.5.exe",
+  "sha256": "5a6a1730b19aa9fb50efc0c2e05ea9ffce339c29bf4147160bd768fa4ebd0cf3",
   "signed": false
 }
