@@ -1,7 +1,7 @@
 {
-  "version": "0.8.20",
-  "url": "https://downloads.tsplusmanager.com/worker/tsm-worker-0.8.20.exe",
-  "sha256": "5859b81f5c1435e9b371edf9cf9d501ab760fe8c80d3d6c54e0fbfbdda3a5ff3",
-  "size": 11498496,
-  "signature": "kO/fGaTpmbIelX9Y03fNDp/+BmvH4lYDvWHrUA+RQGlXvSEOsSU/fXdBAb9lgEKl+QeGfvNgnc8eICmgw22hDg=="
+  "version": "0.8.21",
+  "url": "https://downloads.tsplusmanager.com/worker/tsm-worker-0.8.21.exe",
+  "sha256": "66ddafc8623a89d746669ae961022cb838c7ab400cced6e2e9d655921ff81a05",
+  "size": 11502080,
+  "signature": "AznCwZITOHc8eenoVgGJ9a/uIULWpbfF43SXDTZnPErfl06TNM89Wm5lIjXyDe0tqnx9dkeVldFkTUyhq5GACg=="
 }
